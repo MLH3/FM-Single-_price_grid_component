@@ -135,7 +135,12 @@ button:active {
 
 @media screen and (max-width: 700px) {
   body {
+    margin: 0.5rem;
     font-size: 12px;
+  }
+
+  .container {
+    padding: 0.2rem 2.2rem;
   }
   .container1 h1 {
     font-size: 1rem;
@@ -147,6 +152,10 @@ button:active {
 
   .container2 h2 {
     font-size: 1rem;
+  }
+
+  .container3 {
+    padding-bottom: 1rem;
   }
 
   .container3 h2 {
